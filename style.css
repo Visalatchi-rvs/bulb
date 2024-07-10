@@ -1,0 +1,31 @@
+body{
+    background-color: blanchedalmond;
+}
+
+h1{
+    text-align: center;
+}
+
+img{
+    margin-left: 42%;
+    margin-bottom: 30px;
+    border:2px solid black;
+}
+
+#on{
+    width:100px;
+    height:40px;
+    margin-left: 450px;
+    font-size: larger;
+    background-color: white;
+}
+
+#off{
+    width: 100px;
+    height: 40px;
+    margin-left: 160px;
+    font-size: larger;
+    color: white;
+    background-color: black;
+
+}
